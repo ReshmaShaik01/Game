@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Harsh Anand</h1>
+<h1 align="center">Hi 👋, I'm Shaik Reshma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Stack-Game](https://github.com/harshanand1/STACK-GAME)
+- 🔭 I’m currently working on [Stack-Game](https://github.com/Reshmashaik01/GAME)
 
-- 📫 How to reach me **harshanand849@gmail.com**
+- 📫 How to reach me **01reshmashaik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-anand-213a41212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-anand-213a41212/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/reshma-shaik-01407a266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reshma-shaik-01407a266/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +38,7 @@ Responsive design for various screen sizes.
 
 ## Demo
 
-You can see a live demo of this application [here](https://harshanand1.github.io/STACK-GAME/). 
+You can see a live demo of this application [here](https://Reshmashaik01.github.io/GAME/). 
  
 ## Installation
 
@@ -46,7 +46,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/harshanand1/STACK-GAME
+   git clone https://github.com/Reshmashaik01/GAME
 
 ## Contributing
 
