@@ -38,7 +38,7 @@ Responsive design for various screen sizes.
 
 ## Demo
 
-You can see a live demo of this application [here](https://Reshmashaik01.github.io/GAME/). 
+You can see a live demo of this application [here](file:///C:/Users/01res/Downloads/all/visual%20studio/Stack%20Game/index.html). 
  
 ## Installation
 
