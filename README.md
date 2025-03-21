@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Reshma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Stack-Game] (file:///C:/Users/01res/Downloads/all/visual%20studio/Stack%20Game/index.html)
+- 🔭 I’m currently working on [Stack-Game] (https://github.com/ReshmaShaik01/Game/blob/main/README.md#:~:text=on%20%5BStack%2DGame%5D-,(file%3A///C%3A/Users/01res/Downloads/all/visual%2520studio/Stack%2520Game/index.html),-%F0%9F%93%AB%20How%20to%20reach)
 
 - 📫 How to reach me **01reshmashaik@gmail.com**
 
