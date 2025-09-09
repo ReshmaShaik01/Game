@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Reshma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Stack-Game] **http://127.0.0.1:5500/Stack%20Game/index.html**
+- 🔭 I’m currently working on [Stack-Game] **https://reshmashaik01.github.io/Game/**
 
 - 📫 How to reach me **01reshmashaik@gmail.com**
 
@@ -39,7 +39,7 @@ Responsive design for various screen sizes.
 ## Demo
 
 You can see a live demo of this application [here]
-**http://127.0.0.1:5500/Stack%20Game/index.html** 
+**https://reshmashaik01.github.io/Game/** 
  
 ## Installation
 
